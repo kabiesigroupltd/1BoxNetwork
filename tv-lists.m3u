@@ -1,4 +1,7 @@
+# 1BoxNetwork
 #EXTM3U
+#EXTINF:-1,NG: KabiesiTv Live
+https://v7.ciclano.io:1443/ktv1/_definst_/ktv1/playlist.m3u8
 #EXTINF:-1,FR: BEiN SPORT 1
 http://217.182.173.184:8000/live/micha/micha/452.ts
 #EXTINF:-1,FR: BEiN SPORT 2
@@ -1005,4 +1008,4 @@ http://bestiptvsrv.tk:25461/live/anis/anis/9747.ts
 #EXTINF:-1,VIP BEIN: beIN Sports 11 HD
 http://bestiptvsrv.tk:25461/live/anis/anis/9746.ts
 #EXTINF:-1,VIP BEIN: beIN Sports 12 HD
-http://bestiptvsrv.tk:25461/live/anis/anis/9745.ts# 1BoxNetwork
+http://bestiptvsrv.tk:25461/live/anis/anis/9745.ts
