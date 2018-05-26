@@ -1,7 +1,7 @@
 # 1BoxNetwork
 #EXTM3U
 #EXTINF:-1,NG TVC
-http://content.jwplatform.com/previews/XynQISr9-TrAl4d2H
+http://185.105.4.188:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1,NG: KabiesiTv Live
 https://v7.ciclano.io:1443/ktv1/_definst_/ktv1/playlist.m3u8
 #EXTINF:-1,FR: BEiN SPORT 1
