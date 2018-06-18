@@ -8,6 +8,308 @@ https://v7.ciclano.io:1443/ktv1/_definst_/ktv1/playlist.m3u8
 http://77.223.131.175:1935/sportstv/SportsTV3/playlist.m3u8
 #EXTINF:-1, USA: Islam
 https://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
+
+#EXTINF:-1,BBC_PERSIAN
+http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
+ 
+#EXTINF:0, MANOTOTV HD
+https://d6kn5bcgzkd2t.cloudfront.net/live.m3u8
+ 
+#EXTINF:0, channel one
+http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+ 
+#EXTINF:0, Voa persian
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+ 
+#EXTINF:0, Radio Farda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+ 
+#EXTINF:0, Parstv
+http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+ 
+#EXTINF:0, Andisheh tv
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+ 
+#EXTINF:0, Irane Farda tv
+http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, Iran International tv
+https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8?DVR
+ 
+#EXTINF:0, Mihan tv
+http://104.236.167.95/live/playlist.m3u8
+ 
+ 
+#EXTINF:0, AZADI tv
+https://59355e6c6462b.streamlock.net/live/azadah/playlist.m3u8
+ 
+#EXTINF:0, SIMAYE AZADI
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+ 
+ 
+#EXTINF:0, ROYAL TV
+http://stream.rtimetv.com/rtimetv/playlist.m3u8k
+ 
+#EXTINF:0, rangarang tv
+http://iptv.rangarang.us/live/playlist.m3u8
+ 
+#EXTINF:0, Persiana Tv
+http://51.15.238.115/hls/stream.m3u8
+ 
+#EXTINF:0, GEM Plus
+https://player.twitch.tv/?channel=gemgrouptv
+ 
+#EXTINF:0, Gemtv live
+http://185.21.217.79:7071/abcd/gemtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE4IDg6MTI6MzUgQU0maGFzaF92YWx1ZT1mbWdlUDVENDNTejdkYXlNM2xrb1lBPT0mdmFsaWRtaW51dGVzPTI=
+ 
+#EXTINF:0, GEM USA
+http://185.21.217.79:7071/abcd/gemusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE4IDg6MTQ6MzAgQU0maGFzaF92YWx1ZT1vTmJoNVNocVlTTElaUlgwQmNsMm9RPT0mdmFsaWRtaW51dGVzPTI=
+ 
+#ETINF:0, PERSIAN STARTV
+http://185.21.217.79:7071/abcd/gemusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOC8yMDE4IDg6MTQ6MzAgQU0maGFzaF92YWx1ZT1vTmJoNVNocVlTTElaUlgwQmNsMm9RPT0mdmFsaWRtaW51dGVzPTI=
+ 
+ 
+#EXTINF:0, GEM tv
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
+ 
+#EXTINF:0, GEM  mifa
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
+ 
+ 
+#EXTINF:-1,Gem USA
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+ 
+ 
+#EXTINF:-1,Gem Life
+http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
+ 
+ 
+#EXTINF:-1,Gem Junior
+http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+ 
+ 
+#EXTINF:-1,Gem Bollywood
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+ 
+#EXTINF:0, GEM_TRAVEL
+http://63.237.48.28/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+ 
+#EXTINF:0,gemrubix
+http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+ 
+ 
+#EXTINF:0,gemriver
+http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
+ 
+#EXTINF:0, Chances Tv
+https://d2vo3ozpc06skj.cloudfront.net/chan3estv10-1525963098/index.m3u8
+ 
+#EXTINF:-1 Lahzeh Tv
+http://str.lahzeh.tv:1935/IOS/live.smil/playlist.m3u8
+ 
+#EXTINF:0,Namahang Tv
+https://live.navahang.tv/hls/navahangtv.m3u8
+ 
+#EXTINF:0, ParsiLand persian
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+ 
+ 
+#EXTINF:0, HTV Persian
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0,persian star
+http://63.237.48.28/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
+ 
+ 
+#EXTINF:-1,Persian movie
+http://63.237.48.28/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
+ 
+#EXTINF:-1,HIVERSION
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1,ebc1hd
+http://66.160.192.249:8080/ebc1hd.tvboxhd.com/high/27987/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, Radio Javan
+http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8
+ 
+#EXTINF:0, PMC
+http://63.237.48.28/ios/PMC/PMC.m3u8
+ 
+#EXTINF:0, MTC
+http://208.75.229.50:1935/mellitv/myStream.sdp/playlist.m3u8
+ 
+#EXTINF:0, Dream Tv
+http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
+ 
+#EXTINF:0, ITN
+http://63.237.48.28/ios/ITN/ITN.m3u8
+ 
+EXTINF:0, persian tv
+http://63.237.48.28/ios/TVP/TVP.m3u8
+ 
+#EXTINF:0, GALA TV
+http://nimlive6.giniko.com/nex1tv/nex1tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDQ6MjA6MzUgUE0maGFzaF92YWx1ZT1sR1FXdWFmWWNkSmZvdjdMeTdHNC9RPT0mdmFsaWRtaW51dGVzPTE0NDA=
+ 
+#EXTINF:0, HITV NETWORK
+http://35.203.16.99:1935/HTVNetwork/myStream/chunklist.m3u8
+ 
+ 
+ 
+#EXTINF:0, APADANA TV
+http://stream.aeducationaltv.org/watch/playlist.m3u8
+ 
+#EXTINF:0, AFN MUSIC
+http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
+ 
+#EXTINF:,0. AAA FAMILIE
+http://63.237.48.28/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+ 
+ 
+#EXTINF:0, NATIONAL GEOGRAPHIC PERSIAN
+http://63.237.48.28/ios/ICC/ICC.m3u8
+ 
+#EXTINF:0, PBC TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:0, KRAL LOVE
+http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
+ 
+ 
+#EXTINF:0, TM TV
+http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
+ 
+#EXTINF:0 TIN TV
+66.160.192.250:8080/tasviriran-TVBOXHD.COM/tin/tracks-v1a1/index.m3u8
+ 
+#EXTISNF:, Khatereh TV
+http://iriptv.com:1935/iriptv/khaterehtv.stream/index.m3u8
+ 
+ 
+#EXTINF:0, Khaneh film
+http://82.165.98.215:1935/iriptv1/12.stream/index.m3u8
+ 
+#EXTINF:0, Didar tv
+http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
+ 
+ 
+#EXTINF:0, HTV PERSIAN FASHION
+http://35.203.16.99:1935/HTVFashion/myStream/chunklist.m3u8
+ 
+#EXTINF:0, Dreamlandtv
+http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
+ 
+#EXTINF:0, Omide Iran tv
+http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, Asal Tvt
+http://66.160.192.250:8080/asaltv/live/index.m3u8
+ 
+#EXTINF:0, mi tv
+http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
+ 
+ 
+ 
+#EXTINF:0, IRAN ISRAELL TV
+http://54.86.164.91:1935/edge/80_11_live/playlist.m3u8
+ 
+#EXTINF:0, PDF TV
+http://iriptv.com:1935/iriptv/pdftv.stream/index.m3u8
+ 
+#EXTINF:0, pamian tv
+http://wowzaprodhd62-lh.akamaihd.net/i/54957e59_1@108378/master.m3u8
+ 
+#EXTINF:0, CARTOON TV
+http://63.237.48.28/ios/4U_CARTOON/4U_CARTOON.m3u8
+ 
+#EXTINF:0, HT TOON TV
+http://35.203.16.99:1935/HTVToon/myStream/chunklist.m3u8
+ 
+#EXTINF:0, ROYAL TV
+http://69.22.149.251/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
+ 
+#EXTINF:0, Ifilm
+http://63.237.48.28/ios/IFILM/IFILM.m3u8
+ 
+#EXTINF:0, BARAN
+http://cdn1.live.irib.ir:1935/e-tv/baran-300k.stream/playlist.m3u8
+ 
+#EXTINF:0, IRIB HD 1
+https://live.cdn.asset.aparat.com/astv1/edge/tv1.m3u8?wmsAuthSign=99d5e00fff52bc4ab51ac04e6be22dbb
+ 
+#EXTINF:0, IRIB HD 2
+https://live.cdn.asset.aparat.com/astv1/edge/tv2.m3u8?wmsAuthSign=045e08eff0d98dac7fd730f7f335c229
+ 
+#EXTINF:0, IRIB 3 4K
+http://cdn1.live.irib.ir:1935/e-tv/tv3-1mb.stream/playlist.m3u8
+ 
+#EXTINF:0, IRIB HD 3
+https://live.cdn.asset.aparat.com/astv1/edge/tv3.m3u8?wmsAuthSign=7c87667e737a49c5152a7ddc57d40fcb
+ 
+#EXTINF:0, VARZESH
+https://live.cdn.asset.aparat.com/astv1/edge/varzesh.m3u8?wmsAuthSign=19f21800cf00f9db98801fbed4160679
+ 
+ 
+#EXTINF:0, IRIB tv4
+https://live.cdn.asset.aparat.com/astv1/edge/tv4.m3u8?wmsAuthSign=099c6cdfcda9fdf72275e07de5b792af
+#EXTINF:0, IRIB tv5
+https://live.cdn.asset.aparat.com/astv1/edge/tv5.m3u8?wmsAuthSign=31e7809ccfc77ba9a9b593e1f41f3e23
+ 
+#EXTINF:0, KHABAR
+https://live.cdn.asset.aparat.com/astv1/edge/irinn.m3u8?wmsAuthSign=625583646a9ebc7009c212259c47fc81
+ 
+#EXTINF:0, IRIB HD nasim
+https://live.cdn.asset.aparat.com/astv1/edge/nasim.m3u8?wmsAuthSign=63f71b6dd52f187390088ea007bd8089
+ 
+#EXTINF:0, TAMASHATV
+http://cdn1.live.irib.ir:1935/e-tv/tamasha-300k.stream/playlist.m3u8
+ 
+#EXTINF:0, Persian Bazar
+http://35.203.16.99:1935/HTVToon/myStream/chunklist.m3u8
+ 
+#EXTINF:0, TASVIR IRAN TV
+http://66.160.192.250:8080/tasviriran-TVBOXHD.COM/tin/tracks-v1a1/index.m3u8
+ 
+#EXTINF:0, KRALTV ASK TURK
+http://5ptdjqov.rocketcdn.com/kraldijital-asktv.smil/chunklist.m3u8
+ 
+#EXTINF:0, KRALTV DANCE TURK
+http://3ltdm73t.rocketcdn.com//smil:kraldijital-danstv.smil/chunklist.m3u8
+ 
+ 
+#EXTINF:0, Kalameh tv
+https://kalemeh.tv/kalemeh.m3u8
+ 
+#EXTINF:0, PTV1
+http://stream.persiantv1.com/live/pbtv/index.m3u8
+ 
+#EXTINF:0, Cineseries
+http://176.9.48.184:1935/cineseries/CineSeries/playlist.m3u8
+ 
+#EXTINF:0, Israel Parstv
+http://66.160.192.250:8080/asaltv/live/index.m3u8
+ 
+#EXTINF:0, Caltexmusic tv
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+ 
+#EXTINF:0, isreael pars
+http://66.160.192.250:8080/asaltv/live/index.m3u8
+ 
+#EXTINF:0, National Geographic Persian
+http://63.237.48.28/ios/ANDISHEH/ANDISHEH.m3u8
+ 
+#EXTINF:0, HTV SPORT
+http://35.203.16.99:1935/HTVSports/myStream/chunklist.m3u8
+ 
+#EXTINF:0, irib 2
+https://live.cdn.asset.aparat.com/astv1/edge/tv2_high/index.m3u8?wmsAuthSign=a811f24c5562b7a8aaf342e4fac92edd
+ 
+#EXTINF:0, irib 2aparat
+https://live.cdn.asset.aparat.com/astv1/edge/tv2.m3u8?wmsAuthSign=a811f24c5562b7a8aaf342e4fac92edd
+ 
+#EXTINF:0, HIGH VERSION
+http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1,UK: 5USA
 http://server.internext.tv:8080/live/delvin1/delvin1/7793.ts
 #EXTINF:-1,UK: ANIMAL PLANET
